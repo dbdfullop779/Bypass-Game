@@ -180,12 +180,6 @@
         ]
     },
     {
-        "Appid": "1693980",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/EAOther/Dead.Space.Bypass.rar"
-        ]
-    },
-    {
         "Appid": "47780",
         "Link_Download": [
             "https://github.com/dbdfullop779/Bypass-Game/releases/download/EAOther/Dead.Space.2.Bypass.zip"
@@ -848,6 +842,24 @@
         "Appid": "4609770",
         "Link_Download": [
             "https://github.com/dbdfullop779/Bypass-Game/releases/download/Other/Not.Quite.Dead.Open.World.Survival.Bypass.zip"
+        ]
+    },
+    {
+        "Appid": "801800",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Bypass-Game/releases/download/Other/Atomfall.Bypass.zip"
+        ]
+    },
+    {
+        "Appid": "1693980",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Bypass-Game/releases/download/EAOther/Dead.Space.Bypass.zip"
+        ]
+    },
+    {
+        "Appid": "3483510",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Bypass-Game/releases/download/Other/The.Adventures.of.Elliot.The.Millennium.Tales.Bypass.zip"
         ]
     }
 ]
