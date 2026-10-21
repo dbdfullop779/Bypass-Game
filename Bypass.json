@@ -36,12 +36,6 @@
         ]
     },
     {
-        "Appid": "1547000",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/11%2F03%2F2026/Grand.Theft.Auto.San.Andreas.-.The.Definitive.Edition.Bypass.zip"
-        ]
-    },
-    {
         "Appid": "3240220",
         "Link_Download": [
             "https://github.com/dbdfullop779/Bypass-Game/releases/download/RockstarGames/Grand.Theft.Auto.V.Enhanced.Bypass.zip"
@@ -866,6 +860,12 @@
         "Appid": "2928600",
         "Link_Download": [
             "https://github.com/dbdfullop779/Bypass-Game/releases/download/Other/Demon.Slayer.-Kimetsu.no.Yaiba-.The.Hinokami.Chronicles.2.Bypass.zip"
+        ]
+    },
+    {
+        "Appid": "1547000",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Bypass-Game/releases/download/RockstarGames/Grand.Theft.Auto.San.Andreas.-.The.Definitive.Edition.Bypass.zip"
         ]
     }
 ]
