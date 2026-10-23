@@ -398,63 +398,9 @@
         ]
     },
     {
-        "Appid": "42700",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Black.Ops.Bypass.zip"
-        ]
-    },
-    {
-        "Appid": "202970",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Black.Ops.II.Bypass.zip"
-        ]
-    },
-    {
-        "Appid": "10180",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.2.2009.Bypass.zip"
-        ]
-    },
-    {
         "Appid": "115300",
         "Link_Download": [
             "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.3.2011.Bypass.zip"
-        ]
-    },
-    {
-        "Appid": "3595230",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.II.Bypass.zip"
-        ]
-    },
-    {
-        "Appid": "3595270",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.III.Bypass.zip"
-        ]
-    },
-    {
-        "Appid": "1985820",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Vanguard.Bypass.zip"
-        ]
-    },
-    {
-        "Appid": "1985810",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Black.Ops.Cold.War.Bypass.zip"
-        ]
-    },
-    {
-        "Appid": "292730",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Infinite.Warfare.Bypass.zip"
-        ]
-    },
-    {
-        "Appid": "209160",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Ghosts.Bypass.zip"
         ]
     },
     {
@@ -782,15 +728,6 @@
         ]
     },
     {
-        "Appid": "2000950",
-        "Link_Download": [
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.Bypass.zip.001",
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.Bypass.zip.002",
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.Bypass.zip.003",
-            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.Bypass.zip.004"
-        ]
-    },
-    {
         "Appid": "3751950",
         "Link_Download": [
             "https://github.com/dbdfullop779/Bypass-Game/releases/download/Assassin'sCreed/Assassin.s.Creed.Black.Flag.Resynced.Bypass.zip"
@@ -866,6 +803,48 @@
         "Appid": "1547000",
         "Link_Download": [
             "https://github.com/dbdfullop779/Bypass-Game/releases/download/RockstarGames/Grand.Theft.Auto.San.Andreas.The.Definitive.Edition.Bypass.zip"
+        ]
+    },
+    {
+        "Appid": "42700",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Black.Ops.Bypass.zip"
+        ]
+    },
+    {
+        "Appid": "202970",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Black.Ops.II.Bypass.zip"
+        ]
+    },
+    {
+        "Appid": "10180",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.2.2009.Bypass.zip"
+        ]
+    },
+    {
+        "Appid": "1938090",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.4.-.1938090.Bypass.zip"
+        ]
+    },
+    {
+        "Appid": "2000950",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.Bypass.zip"
+        ]
+    },
+    {
+        "Appid": "3595230",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.II.Bypass.zip"
+        ]
+    },
+    {
+        "Appid": "3595270",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Bypass-Game/releases/download/CallofDuty/Call.of.Duty.Modern.Warfare.III.Bypass.zip"
         ]
     }
 ]
